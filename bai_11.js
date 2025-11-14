@@ -5,7 +5,7 @@ function cal(){
         document.getElementById("result").innerText = 'Thuế cá nhân của bạn là: ' + ketqua;
     }
     else{
-        document.getElementById("result").innerText = "Không có thu nhập, không cần nộp thuế";
+        document.getElementById("result").innerText = "Không có thu nhập, không cần nộp thuế. Nghèo!!!";
     }
 
 }
